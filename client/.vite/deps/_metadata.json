@@ -1,0 +1,67 @@
+{
+  "hash": "953a38fc",
+  "configHash": "c13d661d",
+  "lockfileHash": "547d082f",
+  "browserHash": "a9df690b",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "297620a0",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "404286ba",
+      "needsInterop": true
+    },
+    "react-redux": {
+      "src": "../../node_modules/react-redux/dist/react-redux.mjs",
+      "file": "react-redux.js",
+      "fileHash": "d50ad3f8",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "c04d3a67",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/redux-toolkit.modern.mjs",
+      "file": "@reduxjs_toolkit.js",
+      "fileHash": "87768fef",
+      "needsInterop": false
+    },
+    "react-hook-form": {
+      "src": "../../node_modules/react-hook-form/dist/index.esm.mjs",
+      "file": "react-hook-form.js",
+      "fileHash": "90710ded",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit/query/react": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/query/react/rtk-query-react.modern.mjs",
+      "file": "@reduxjs_toolkit_query_react.js",
+      "fileHash": "51376017",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-5IFATXZH": {
+      "file": "chunk-5IFATXZH.js"
+    },
+    "chunk-W3POJM3T": {
+      "file": "chunk-W3POJM3T.js"
+    },
+    "chunk-QWNKSEJP": {
+      "file": "chunk-QWNKSEJP.js"
+    },
+    "chunk-URNRBCZE": {
+      "file": "chunk-URNRBCZE.js"
+    },
+    "chunk-LNEMQRCO": {
+      "file": "chunk-LNEMQRCO.js"
+    }
+  }
+}

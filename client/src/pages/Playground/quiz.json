@@ -1,0 +1,122 @@
+[
+  {
+    "question": "How many faces does a cube have?",
+    "answer": "6",
+    "incorrectAnswer": "8",
+    "shape": "cube"
+  },
+  {
+    "question": "What shape are the faces of a cube?",
+    "answer": "Square",
+    "incorrectAnswer": "Rectangle",
+    "shape": "cube"
+  },
+  {
+    "question": "How many edges does a cube have?",
+    "answer": "12",
+    "incorrectAnswer": "8",
+    "shape": "cube"
+  },
+  {
+    "question": "How many corners (vertices) does a cube have?",
+    "answer": "8",
+    "incorrectAnswer": "6",
+    "shape": "cube"
+  },
+  {
+    "question": "If you paint one face of a cube, how many faces are still unpainted?",
+    "answer": "5",
+    "incorrectAnswer": "6",
+    "shape": "cube"
+  },
+  {
+    "question": "How many faces does a sphere have?",
+    "answer": "0",
+    "incorrectAnswer": "1",
+    "shape": "sphere"
+  },
+  {
+    "question": "Can a sphere roll? Why or why not?",
+    "answer": "Yes",
+    "incorrectAnswer": "No",
+    "shape": "sphere"
+  },
+  {
+    "question": "Is a basketball an example of a sphere?",
+    "answer": "Yes",
+    "incorrectAnswer": "No",
+    "shape": "sphere"
+  },
+  {
+    "question": "Does a sphere have any edges or corners?",
+    "answer": "No",
+    "incorrectAnswer": "Yes",
+    "shape": "sphere"
+  },
+  {
+    "question": "Can you stack spheres on top of each other without them rolling away?",
+    "answer": "No",
+    "incorrectAnswer": "Yes",
+    "shape": "sphere"
+  },
+  {
+    "question": "What shape is the hole in the middle of a  doughnut?",
+    "answer": "Circular",
+    "incorrectAnswer": "Square",
+    "shape": "doughnut"
+  },
+  {
+    "question": "Does a  doughnuthave any flat faces?",
+    "answer": "No",
+    "incorrectAnswer": "Yes",
+    "shape": "doughnut"
+  },
+  {
+    "question": "Can you roll a doughnut?",
+    "answer": "Yes",
+    "incorrectAnswer": "No",
+    "shape": " doughnut"
+  },
+  {
+    "question": "Is a  doughnut similar to a ring in shape?",
+    "answer": "Yes",
+    "incorrectAnswer": "No",
+    "shape": " doughnut"
+  },
+  {
+    "question": "Can you think of another object that has the same shape as a doughnut?",
+    "answer": "Life buoy",
+    "incorrectAnswer": "Plate",
+    "shape": " doughnut"
+  },
+  {
+    "question": "How many circular faces does a cylinder have?",
+    "answer": "2",
+    "incorrectAnswer": "1",
+    "shape": "cylinder"
+  },
+  {
+    "question": "What shape are the sides of a cylinder?",
+    "answer": "Rectangle",
+    "incorrectAnswer": "Circle",
+    "shape": "cylinder"
+  },
+  {
+    "question": "Can you roll a cylinder on its side?",
+    "answer": "Yes",
+    "incorrectAnswer": "No",
+    "shape": "cylinder"
+  },
+  {
+    "question": "Is a soda can an example of a cylinder?",
+    "answer": "Yes",
+    "incorrectAnswer": "No",
+    "shape": "cylinder"
+  },
+  {
+    "question": "How many edges does a cylinder have?",
+    "answer": "0",
+    "incorrectAnswer": "1",
+    "shape": "cylinder"
+  }
+]
