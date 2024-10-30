@@ -1,7 +1,5 @@
 
 <h1>EDU-AR</h1>
-<p>Project Members: Ayush Shrestha (BIM), Saugat Joshi (BIM) 
-
 EDU-AR is a revolutionary platform that merges the boundless creativity and imagination of children with the cutting-edge technology of Augmented Reality (AR). Our vision is to transform classrooms into immersive learning environments where students can explore the solar system, visit historical landmarks, and experience diverse places and moments—all from the comfort of their desks. 
 
 Utilizing the power of AR, EDU-AR provides an accessible and engaging way for children to delve into their subjects with a 360-degree perspective using only their smartphones. This innovative approach allows students to unlock their imagination and deepen their understanding of various topics in a truly interactive and dynamic manner. This project was developed during the KIST Hackathon 2024. 
