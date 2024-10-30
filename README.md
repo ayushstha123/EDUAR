@@ -33,9 +33,8 @@ Utilizing the power of AR, EDU-AR provides an accessible and engaging way for ch
 <img src="https://prime.edu.np/wp-content/uploads/2024/07/Edu.ar_.jpg"/>
 
 VIDEO: 
-<video width="100%" controls>
-  <source src="@assets/Media1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://www.youtube.com/watch?v=QaHvSgLLGyw&ab_channel=AyusStha
 
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=QaHvSgLLGyw&ab_channel=AyusStha
+)
