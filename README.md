@@ -32,12 +32,13 @@ Utilizing the power of AR, EDU-AR provides an accessible and engaging way for ch
 <h3>PICTURES AND VIDEOS</h3>
 <img src="https://prime.edu.np/wp-content/uploads/2024/07/Edu.ar_.jpg"/>
 
-VIDEO: 
-https://www.youtube.com/watch?v=QaHvSgLLGyw&ab_channel=AyusStha
 
 
 
-<video controls src="Media1.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/57551706-12d1-4ee0-a2db-57b397909b80
+
+
 
 YOUTUBE: 
 https://www.youtube.com/watch?v=QaHvSgLLGyw&ab_channel=AyusStha
