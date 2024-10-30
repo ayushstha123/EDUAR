@@ -36,5 +36,8 @@ VIDEO:
 https://www.youtube.com/watch?v=QaHvSgLLGyw&ab_channel=AyusStha
 
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=QaHvSgLLGyw&ab_channel=AyusStha
-)
+
+<video controls src="Media1.mp4" title="Title"></video>
+
+YOUTUBE: 
+https://www.youtube.com/watch?v=QaHvSgLLGyw&ab_channel=AyusStha
